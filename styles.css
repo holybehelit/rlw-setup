@@ -1,0 +1,13 @@
+    *{
+        margin: 0;
+    }
+    
+    body {
+        background-color: pink;
+        color:lightcoral;
+        
+       display: grid;
+       place-items: center;
+
+       height: 100vh;
+    }
